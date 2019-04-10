@@ -1,1 +1,1 @@
-"# Reposit¢rio de Estudos Ruby" 
+# Reposit√≥rio de Estudos em Ruby
